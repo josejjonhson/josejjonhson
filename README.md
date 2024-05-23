@@ -16,4 +16,4 @@
 
 Apaixonado por tecnologia, desenvolvimento e resolução de problemas.
 
-## E-mail para contato: josejjonhsondev@gmail.com
+## E-mail para contato: josejonhsondev@gmail.com
